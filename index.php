@@ -1,7 +1,6 @@
 <?php include 'includes/header.php'; ?>
 <h2>Welcome</h2>
-<p>This is the starter version of the Real Estate Agency Portal for Spring 2026.</p>
-<p>Use this project to practice PHP, MySQL, sessions, authentication, and CRUD operations.</p>
+<p>Browse homes and rentals, or sign in to list properties and contact agents.</p>
 
 <div class="card">
     <h3>Project Roles</h3>
